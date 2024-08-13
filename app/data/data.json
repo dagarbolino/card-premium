@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Free",
+    "image": "./free-svgrepo-com.svg",
+    "price": 0,
+    "features": [
+      "Feature 1"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec"
+  },  
+  {
+    "id": 2,
+    "name": "Basic",
+    "image": "./badge-svgrepo-com.svg",
+    "price": 9.99,
+    "features": [
+      "Feature 1",
+      "Feature 2"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec"
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "image": "./premium-badge-svgrepo-com.svg",
+    "price": 19.99,
+    "features": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec"
+  }
+
+]
